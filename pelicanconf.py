@@ -7,6 +7,7 @@ PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
 STATIC_PATH = ['images']
 
+THEME = "/home/jake/Dev/pelican_blog/pelican_themes/medius"
 # THEME = "/Users/jake/Dev/danbi2990.github.io/themes/voce"
 
 AUTHOR = 'danbi2990'

@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+MARKUP = ('md', 'ipynb')
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['ipynb.markup']
 STATIC_PATH = ['images']
 
 # THEME = "/Users/jake/Dev/danbi2990.github.io/themes/voce"

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>./</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-07-20T21:50:00+09:00</updated><entry><title>First Notebook</title><link href="/First-Notebook.html" rel="alternate"></link><published>2019-07-20T21:50:00+09:00</published><updated>2019-07-20T21:50:00+09:00</updated><author><name>Jake Park</name></author><id>tag:None,2019-07-20:/First-Notebook.html</id><summary type="html">&lt;p&gt;First notebook&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>./ - notebook</title><link href="/" rel="alternate"></link><link href="/feeds/notebook.atom.xml" rel="self"></link><id>/</id><updated>2019-07-20T21:50:00+09:00</updated><entry><title>First Notebook</title><link href="/First-Notebook.html" rel="alternate"></link><published>2019-07-20T21:50:00+09:00</published><updated>2019-07-20T21:50:00+09:00</updated><author><name>Jake Park</name></author><id>tag:None,2019-07-20:/First-Notebook.html</id><summary type="html">&lt;p&gt;First notebook&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -1226,5 +1226,4 @@ h6:hover .anchor-link {
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="notebook"></category></entry><entry><title>Second post</title><link href="/My-second-post.html" rel="alternate"></link><published>2019-07-20T17:26:00+09:00</published><updated>2019-07-20T17:26:00+09:00</updated><author><name>Jake Park</name></author><id>tag:None,2019-07-20:/My-second-post.html</id><summary type="html">&lt;p&gt;What happen to second post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the &lt;em&gt;second post&lt;/em&gt; from my Pelican blog.&lt;/p&gt;</content><category term="second"></category><category term="news"></category></entry><entry><title>My first post</title><link href="/My-first-post.html" rel="alternate"></link><published>2019-07-20T16:13:00+09:00</published><updated>2019-07-20T16:13:00+09:00</updated><author><name>Jake Park</name></author><id>tag:None,2019-07-20:/My-first-post.html</id><summary type="html">&lt;p&gt;It's my first post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the &lt;em&gt;first post&lt;/em&gt; from my Pelican blog.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="example image" src="/images/1455494004159.jpg"&gt;&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry></feed>
+</content><category term="notebook"></category></entry></feed>

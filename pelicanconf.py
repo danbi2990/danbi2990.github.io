@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 
 STATIC_PATH = ['images']
 
+# THEME = "/Users/jake/Dev/danbi2990.github.io/themes/voce"
+
 AUTHOR = 'danbi2990'
 SITENAME = './'
 SITEURL = ''
@@ -15,11 +17,11 @@ TIMEZONE = 'Asia/Seoul'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
+AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),

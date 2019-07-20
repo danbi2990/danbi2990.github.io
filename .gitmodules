@@ -1,0 +1,9 @@
+[submodule "themes/Flex"]
+	path = themes/Flex
+	url = git@github.com:alexandrevicenzi/Flex.git
+[submodule "themes/voce"]
+	path = themes/voce
+	url = git@github.com:limbenjamin/voce.git
+[submodule "plugins/ipynb"]
+	path = plugins/ipynb
+	url = git@github.com:danielfrg/pelican-ipynb.git

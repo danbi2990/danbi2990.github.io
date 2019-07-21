@@ -8,11 +8,13 @@ PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
 STATIC_PATH = ['images']
 
-THEME = "/home/jake/Dev/pelican_blog/pelican-themes/medius"
-# THEME = "/Users/jake/Dev/danbi2990.github.io/themes/voce"
+# THEME = "/home/jake/Dev/pelican_blog/pelican-themes/medius"
+# THEME = "/Users/jake/Dev/pelican_blog/pelican-themes/medius"
+THEME = "/Users/jake/Dev/pelican_blog/pelican-themes/Flex"
 
 AUTHOR = 'danbi2990'
 SITENAME = './'
+SITETITLE = 'Lab'
 SITEURL = ''
 
 PATH = 'content'
